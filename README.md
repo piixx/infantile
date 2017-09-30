@@ -28,17 +28,17 @@ in the commit changelogs, you'll see these cool symbols:
 not much else, except for this:  
 
 `CURRENT DEVELOPMENT STATUS:`      
-[100] SOMETHING IS HAPPENING [100]
-[90] ...PROBABLY [90]
-[80] ...? [80]
-[70] MAYBE NOT SO MUCH [70]
-[60] OKAYYY IM GETTIN BORED TBH [60]
-[50] 50-50 [50]
-[40] YOWCH [50]
-[30] DEPRESSION.PNG [30]
-[20] okay honestly what the fuck is going on [20]
-[10] you're scaring me [10]
-[5] no stop [5]
-[0] call the amberlamp because he's dead [0]
+[100] SOMETHING IS HAPPENING [100]  
+[90] ...PROBABLY [90]  
+[80] ...? [80]  
+[70] MAYBE NOT SO MUCH [70]  
+[60] OKAYYY IM GETTIN BORED TBH [60]  
+[50] 50-50 [50]  
+[40] YOWCH [40]  
+[30] DEPRESSION.PNG [30]  
+[20] okay honestly what the fuck is going on [20]  
+[10] you're scaring me [10]  
+[5] no stop [5]  
+[0] call the amberlamp because he's dead [0]  
 
-9/29/17 @ [70] piixx
+9/29/17 @ [70] piixx  
