@@ -29,7 +29,7 @@ not much else, except for this:
 
 `CURRENT DEVELOPMENT STATUS:`      
 [100] SOMETHING IS HAPPENING [100]  
-[90] ...PROBABLY [90]  
+[90] ...PROBABLY [90]  << HERE << << <<
 [80] ...? [80]  
 [70] MAYBE NOT SO MUCH [70]  
 [60] OKAYYY IM GETTIN BORED TBH [60]  
