@@ -3,7 +3,7 @@
 
 > Patch ID INF-0001
 > crash-sandbox-A
-> Fixed by Commit [ ]
+> Fixed by Commit [ 3c9a22243eacbc65847a25432d3a6148c778c14d ]
 > Details:
 >> trying to launch a program w/o arguments causes crash
 >> needs to be patched because running direct executables is not possible and hurts fuctionality
